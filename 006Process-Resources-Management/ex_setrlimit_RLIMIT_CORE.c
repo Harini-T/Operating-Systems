@@ -10,7 +10,7 @@ int main(){
 	getrlimit(RLIMIT_CORE, &v);
 	printf("CPU Time: soft limit = %u, hard limit=%u\n",(int)v.rlim_cur, (int)v.rlim_max);
 	
-	v.rlim_cur=60;
+	v.rlim_cur=10000;
 	
 	setrlimit(RLIMIT_CORE, &v);
 	
