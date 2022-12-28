@@ -1,0 +1,5 @@
+This is example of O_TRUNC: Sample file write2 using append flag
+This is example of O_TRUNC: Sample file write2 using append flag
+This is example of O_APPEND: Sample file write2 using append flag
+This is example of O_APPEND: Sample file write2 using append flag
+This is example of O_APPEND: Sample file write2 using append flag
