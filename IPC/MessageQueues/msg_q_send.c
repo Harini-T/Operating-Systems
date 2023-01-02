@@ -58,7 +58,4 @@ int main(int argc, char **argv)
 
 
 
-#if 0
-Assignment
-1. create priority Message queue with different priority for each message, and check output
-#endif
+
